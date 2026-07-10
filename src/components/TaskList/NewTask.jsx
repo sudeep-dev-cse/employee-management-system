@@ -10,7 +10,7 @@ const NewTask = ({data}) => {
    
     <div className="shrink-0 w-[320px] h-full bg-gradient-to-br from-blue-500 via-blue-600 to-blue-800 rounded-3xl p-6 shadow-2xl hover:scale-[1.03] hover:shadow-red-500/40 transition-all duration-300 text-white">
     <div className='flex justify-between item-center'>
-        <h3 className='bg-black/20 backdrop-blur-sm text-xs font-semibold px-4 py-1 rounded-full border border-white/20'>{data.category}</h3>
+        <h3 className='bg-blaclsck/20 backdrop-blur-sm text-xs font-semibold px-4 py-1 rounded-full border border-white/20'>{data.category}</h3>
         <h4 className='text-sm font-medium text-white/80'>{data.taskDate}</h4>
         
     </div>
