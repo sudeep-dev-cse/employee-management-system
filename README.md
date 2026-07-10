@@ -94,14 +94,14 @@ Sudeep Yadav
 GitHub:
 https://github.com/sudeep-dev-cse
 
-# Login Page
+## 📸 Login Page
 
 ![Login](screenshots/login.png)
 
-# Admin Page
+## 📸 Admin Dashboard
 
-![Admin](screenshots/AdminDashboard.png)
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
-# Employee Page
+## 📸 Employee Dashboard
 
-![Employee](screenshots/EmployeeDashboard.png)
+![Employee Dashboard](screenshots/employee-dashboard.png)
