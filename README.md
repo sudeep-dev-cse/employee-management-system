@@ -1,16 +1,95 @@
-# React + Vite
+# 🚀 Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Employee Management System built using **React**, **Vite**, **Tailwind CSS**, and **Context API**.
 
-Currently, two official plugins are available:
+The application provides separate dashboards for Admin and Employees to efficiently manage tasks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔐 Admin Login
+- 👨‍💼 Employee Login
+- ✅ Create New Tasks
+- 📋 Task Management
+- 🟢 Active Tasks
+- 🔴 Failed Tasks
+- ✔ Completed Tasks
+- 📱 Responsive Design
+- ⚡ Fast UI using Vite
+- 💾 Local Storage Support
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠 Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Context API
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+# 📂 Project Structure
+
+src/
+│
+├── components/
+├── context/
+├── utils/
+├── assets/
+└── App.jsx
+
+---
+
+# 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/sudeep-dev-cse/employee-management-system.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run Project
+
+```bash
+npm run dev
+```
+
+---
+
+# 📸 Screenshots
+
+(Add screenshots here)
+
+---
+
+# 🎯 Future Improvements
+
+- Backend Integration
+- MongoDB
+- JWT Authentication
+- Task Notifications
+- Charts & Analytics
+- Search Employees
+- Edit Tasks
+- Delete Tasks
+- Dark Mode
+
+---
+
+# 👨‍💻 Author
+
+Sudeep Yadav
+
+GitHub:
+https://github.com/sudeep-dev-cse
