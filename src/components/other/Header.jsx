@@ -18,7 +18,7 @@ const Header = (props) => {
           Hi,
         </h1>
         <span className="text-3xl md:text-4xl font-bold text-white">
-       sudeep✋
+      Sudeep✋
         </span>
       </div>
 
